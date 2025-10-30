@@ -35,24 +35,3 @@ Flexibilidad: Agregar campos calculados (ej: "disponible")
 RESULTADOS DE LOS PUNTOS FINALES:
 
 GET /api/productos → Lista todos GET /api/productos/{id} → Obtiene uno POST /api/productos → Crea nuevo PATCH /api/productos/{id}/stock → Actualiza stock GET /api/productos/disponibles → Solo con stock
-
-====================================================== /
-
-de
-No se proporciona descripción, sitio web ni temas.
-Recursos
- Léeme
- Actividad
-Estrellas
- 0 estrellas
-Vigilantes
- 0 espectadores
-Tenedores
- 0 tenedores
-Lanzamientos
-No se han publicado comunicados.
-Crear una nueva versión
-los
-No hay paquetes publicados.
-Publica tu primer paquete.
-Pie de página
